@@ -1,4 +1,4 @@
 treblur-news
 ============
 
-treblur redesign
+treblur redesign (http://treblur.com/)
